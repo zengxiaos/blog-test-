@@ -10,11 +10,13 @@
 * 夏目贵志
   
 ## 一行代码
-   function f(){
-  console.log('hello world')
-}
+四个空格表示法
+    function f(){
+    console.log('hello world')
+    }
     
 ## 这个也是代码
+三个点表示法
 ```JavaScript
 这也是代码 不过可以选择语言
 function f(){
